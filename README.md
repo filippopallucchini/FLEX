@@ -17,10 +17,9 @@ Use Python 3.10.12
 
 Example with Financial PhraseBank data
 
-1. Run FPB/PREPROCESS/compute_subsentences_of_fpb_densex.py to compute propositions for the input dataset
-2. Run FPB/main.py to perform the enrichment
+1. Run FPB/main.py to perform the enrichment
 
-After creating the enriched dataset, you can reproduce the ablation study by running the scripts located in the ABLATION folder. 
+After creating the enriched dataset, you can reproduce the ablation study by running the scripts in the ABLATION folder. 
 Additionally, you can replicate the evaluation experiments described in the original published article.
 
 ## References
