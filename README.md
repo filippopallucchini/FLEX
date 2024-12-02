@@ -27,7 +27,7 @@ Additionally, you can replicate the evaluation experiments described in the orig
 ```
 @article{pallucchini2025self,
   title={Self-explanatory and Retrieval-augmented LLMs for Financial Sentiment Analysis},
-  author={Pallucchini, Filippo, and Zhang, Xulang and Mao, Rui and Cambri, Erik},
+  author={Pallucchini, Filippo, and Zhang, Xulang and Mao, Rui and Cambria, Erik},
   journal={The 40th ACM/SIGAPP Symposium On Applied Computing},
   year={2025},
   publisher={ACM/SIGAPP}
